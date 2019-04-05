@@ -14,3 +14,5 @@ Click the appropriate button to make each player's score go up. There should onl
 You can call a function after setState if you want it to run after the state has been set.
 
 ```setState({something: something}, ()=>something);```
+<hr>
+0 points. Most of the app is not complete. There is only one label and one button.
